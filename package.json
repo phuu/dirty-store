@@ -1,0 +1,11 @@
+{
+  "name": "store-thing",
+  "version": "0.0.0",
+  "description": "A store thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/"
+  },
+  "author": "Tom Ashworth <ta@twitter.com>",
+  "license": "BSD-2-Clause"
+}
