@@ -8,7 +8,7 @@
   },
   "author": "Tom Ashworth <ta@twitter.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "tap": "~0.4.4",
     "deep-equal": "0.0.0"
   }
