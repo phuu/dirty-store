@@ -1,5 +1,5 @@
 /**
- * store-thing
+ * quick-store
  *
  * Usage:
 
