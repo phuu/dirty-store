@@ -2,6 +2,10 @@
 
 A quick and dirty, nestable store that converts well to a native JS object. Won't store objects.
 
+```shell
+npm install dirty-store
+```
+
 ## example
 
 ```javascript
