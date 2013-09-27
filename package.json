@@ -7,5 +7,9 @@
     "test": "tap test/"
   },
   "author": "Tom Ashworth <ta@twitter.com>",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "tap": "~0.4.4",
+    "deep-equal": "0.0.0"
+  }
 }

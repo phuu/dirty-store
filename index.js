@@ -46,6 +46,9 @@ var store = {
     this._[id] -= 1;
     return this;
   },
+  get: function (id) {
+    return this._[id];
+  },
   // Set the @val at @id, or set multiple via an object.
   set: function (id, val) {
     // Handle setting via an object
